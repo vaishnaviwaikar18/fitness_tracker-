@@ -1,0 +1,12 @@
+streamlit
+streamlit-authenticator
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+bcrypt
+cryptography
+pyyaml
+extra-streamlit-components
+firebase-admin
